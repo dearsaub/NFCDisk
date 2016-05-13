@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HCECard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="servicedesc">This is the test service</string>
+    <string name="aiddescription">Is a AID dis</string>
+</resources>
